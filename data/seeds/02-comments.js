@@ -17,4 +17,4 @@ exports.seed = function(knex, Promise) {
         {text: "He who tries to shine dims his own light. He who defines himself can't know who he really is. He who clings to his work will do nothing that endures. Just do your job, then let go.", post_id: 8 }
       ]);
     });
-};
+}; 

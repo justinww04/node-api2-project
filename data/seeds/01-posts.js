@@ -16,7 +16,7 @@ exports.seed = function(knex, Promise) {
           title:
             "I made a promise, Mr Frodo. A promise. \"Don't you leave him Samwise Gamgee.\" And I don't mean to. I don't mean to.",
           contents: 'Guess who said this',
-        },
+        }, 
         {
           title:
             " N-nothing important. That is, I heard a great deal about a ring, a Dark Lord, and something about the end of the world, but... Please, Mr. Gandalf, sir, don't hurt me. Don't turn me into anything... unnatural.",
